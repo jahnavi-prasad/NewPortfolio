@@ -5,4 +5,6 @@ Welcome to my new and updated personal website
 
 ### ~~https://jahnaviprasad.tech/~~ 
 
-### https://jahnaviprasad.live/
+### ~~https://jahnaviprasad.live/~~
+
+### https://jahnaviprasad.com/
